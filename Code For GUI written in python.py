@@ -1,14 +1,3 @@
-"""
-Starter template for programming coursework.
-
-You must build your app by writing code for the functions listed below.
-
-The whole app is a composition of functions.
-No GLOBAL variables and button functionality managed by use of lambda functions.
-
-Student Name: [Kosish Adhikari]
-Student ID: [w2121985]
-"""
 import os
 import csv
 import tkinter as tk
